@@ -1,0 +1,25 @@
+{
+  "name": "aws_node_boilerplate",
+  "version": "1.0.0",
+  "description": "AWS Node Boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Foudro/AWS-node-boilerplate.git"
+  },
+  "keywords": [
+    "aws",
+    "node",
+    "nodejs",
+    "boilerplate"
+  ],
+  "author": "Corentin Vanson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Foudro/AWS-node-boilerplate/issues"
+  },
+  "homepage": "https://github.com/Foudro/AWS-node-boilerplate#readme"
+}
